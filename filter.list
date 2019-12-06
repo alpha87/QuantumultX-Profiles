@@ -1,6 +1,0 @@
-# 知乎广告屏蔽
-DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,reject
-DOMAIN-SUFFIX,sugar.zhihu.com,reject
-
-# 大姨妈拒绝全部请求
-DOMAIN-KEYWORD,yoloho.com,reject
