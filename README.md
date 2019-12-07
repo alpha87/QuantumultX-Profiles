@@ -6,8 +6,6 @@ QuantumultX **真·小白**配置
 
 只需导入自己的节点信息。
 
-一键添加设备ID：https://remotejs.lijianxun.top/
-
 ## 使用方式
 
 ### 1. 下载配置文件
@@ -26,11 +24,13 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 ## 使用远程 JS
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/76509534-929d-4d83-8613-87e51bad1f2a/deploy-status)](https://app.netlify.com/sites/pensive-kowalevski-c424c6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7043c3c1-7ee8-4158-883f-a321ac10f0c7/deploy-status)](https://app.netlify.com/sites/musing-galileo-d17927/deploys)
 
 **限定 QuantumultX 版本为 1.0.3。**
 
-之后版本可能不再支持远程 JS，请酌情升级！
+之后版本可能不再支持远程 JS，请备份 ipa 或酌情升级！
+
+一键添加设备ID：https://remotejs.lijianxun.top/
 
 ## 进阶教程
 
