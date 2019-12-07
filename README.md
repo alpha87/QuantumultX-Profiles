@@ -6,7 +6,7 @@ QuantumultX **真·小白**配置
 
 只需导入自己的节点信息。
 
-[TOC]
+一键添加设备ID：https://remotejs.lijianxun.top/
 
 ## 使用方式
 
