@@ -6,6 +6,8 @@ QuantumultX **真·小白**配置
 
 只需导入自己的节点信息。
 
+[TOC]
+
 ## 使用方式
 
 ### 1. 下载配置文件
@@ -22,13 +24,19 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 可以手动导入或者订阅链接导入。
 
-------
+## 使用远程 JS
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/76509534-929d-4d83-8613-87e51bad1f2a/deploy-status)](https://app.netlify.com/sites/pensive-kowalevski-c424c6/deploys)
+
+**限定 QuantumultX 版本为 1.0.3。**
+
+之后版本可能不再支持远程 JS，请酌情升级！
+
+## 进阶教程
 
 很多人都在推荐神机规则，虽然很好，但是策略很多，小白一开始不容易上手。
 
 对于小白来说不友好，只是简单的想科学上网，去去广告，策略太多反而更加迷惑。
-
-## 进阶教程
 
 看明白小白配置以后，想进阶可以了解一下这份教程，比较全面。
 
