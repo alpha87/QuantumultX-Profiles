@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 一键添加设备ID：https://remotejs.lijianxun.top/
 
-**奉劝各位还是不要用 JS 破解 VIP 之类的，都是开发者，都赚点辛苦钱，请尊重别人的劳动成果！！**
+**奉劝各位还是不要用 JS 破解 VIP 之类，都是开发者，赚点辛苦钱。请尊重别人的劳动成果！！**
 
 ## 进阶教程
 
