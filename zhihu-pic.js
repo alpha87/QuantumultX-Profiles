@@ -1,8 +1,3 @@
-/**
-* @supported DF337FE16B54
-*/
-
-// 获取网页响应内容
 var htmlDoc = $response.body;
 
 // 匹配 content
