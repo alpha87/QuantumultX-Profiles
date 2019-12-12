@@ -1,6 +1,6 @@
 var htmlDoc = $response.body;
 
-// 匹配 content
+// 匹配 content .
 var regex_html = /"content":.*?"collapsedBy":/g;
 match_result = htmlDoc.match(regex_html)[0]
 
