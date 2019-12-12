@@ -17,8 +17,8 @@ match_result = doc.replace(regex_html, `"content": ${result}, "collapsedBy":`);
 $done({body: match_result});
 */
 
-console.warn("-------------------------");
-console.warn(htmlDoc);
-$notify("title", "subtitle", $request.url);
+console.info("-------------------------");
+console.info(htmlDoc);
+$notify("title", $request.url, htmlDoc);
 
 
