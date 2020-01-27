@@ -1,5 +1,5 @@
 /**
- * @supported DF337FE16B54
+ * @supported 
  */
 
 function indexAD(obj) {

@@ -1,5 +1,5 @@
 /**
- * @supported DF337FE16B54
+ * @supported 
  */
 
 // 去除大姨妈内广告

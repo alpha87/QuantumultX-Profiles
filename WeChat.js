@@ -1,5 +1,5 @@
 /**
- * @supported DF337FE16B54
+ * @supported 
  */
 
 // 去除微信公众号文章内广告
