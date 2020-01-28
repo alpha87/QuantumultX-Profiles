@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 保存。
 
+如果报错，是因为没有导入 JavaScript 脚本。需要把脚本拷贝到本地 QuantumultX 下的 Scripts 路径下。
+
+具体可以看文章介绍 [QuantumultX 配置文件以及常用的脚本推荐](https://lijianxun.top/2020/01/27/quantumultx-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%A5%E5%8F%8A%E5%B8%B8%E7%94%A8%E7%9A%84%E8%84%9A%E6%9C%AC%E6%8E%A8%E8%8D%90/)
+
 ### 2. 导入节点
 
 可以手动导入或者订阅链接导入。
