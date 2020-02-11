@@ -32,6 +32,10 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 具体可以看文章介绍 [QuantumultX 配置文件以及常用的脚本推荐](https://lijianxun.top/?p=106)
 
+想使用 QuantumultX 的构造请求来为自己的机场每日签到？可以看这篇文章：[使用 QuantumultX 实现卡车极速自动签到](https://lijianxun.top/61.html)。
+
+如果你的机场马上就要到期，推荐使用[卡车极速](http://m8.pw/mddv)，墙在高都不怕！**优惠码：kc_forever_5**
+
 ## 使用远程 JS
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7043c3c1-7ee8-4158-883f-a321ac10f0c7/deploy-status)](https://app.netlify.com/sites/musing-galileo-d17927/deploys)
