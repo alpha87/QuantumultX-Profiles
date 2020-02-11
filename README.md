@@ -1,14 +1,22 @@
 # QuantumultX Profiles
 
-QuantumultX **真·小白**配置
+QuantumultX **真·小白配置**。
 
-规则简单实用，~~没有复杂的策略~~。没有策略。国内直连，国外扶梯，去~~各种~~广告。
+如果你是从小火箭（Shadowrocket）过来的，这份配置正好适合你，规则简单实用，配合简单好理解的去广告 JavaScript 脚本，达到国内直连，国外扶梯，去 YouTube 5秒广告的使用效果。
 
-只需导入自己的节点信息。
+如果你是从其他软件过来的，这份配置也正好适合你，规则简单实用，配合简单好理解的去广告 JavaScript 脚本，达到国内直连，国外扶梯，去 YouTube 5秒广告的使用效果。
 
-## 使用方式
+只需导入自己的节点信息就可开始使用！什么麻烦看不懂的配置统统走开，我只想简单快速上网！
 
-### 1. 下载配置文件
+如果这份配置帮助到你，还请点击上方 **star** 支持作者。
+
+想要了解更多？作者个人博客：[https://lijianxun.top](https://lijianxun.top)
+
+感谢支持🙏
+
+# 使用方式
+
+## 下载导入配置文件
 
 ![下载](https://i.loli.net/2019/12/06/3VBawUXLrsMR8d9.jpg)
 
@@ -18,13 +26,11 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 保存。
 
-如果报错，是因为没有导入 JavaScript 脚本。需要把脚本拷贝到本地 QuantumultX 下的 Scripts 路径下。
+如果在使用（微信公众号，大姨妈，IT之家）中报错，是因为没有导入对应去广告 JavaScript 脚本。
+
+需要把脚本拷贝到本地 QuantumultX 下的 Scripts 路径下。
 
 具体可以看文章介绍 [QuantumultX 配置文件以及常用的脚本推荐](https://lijianxun.top/?p=106)
-
-### 2. 导入节点
-
-可以手动导入或者订阅链接导入。
 
 ## 使用远程 JS
 
@@ -32,7 +38,7 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 **限定 QuantumultX 版本为 1.0.3。**
 
-之后版本可能不再支持远程 JS，请备份 ipa 或酌情升级！
+之后版本不再支持远程 JavaScript。
 
 一键添加设备ID：https://remotejs.lijianxun.top/
 
