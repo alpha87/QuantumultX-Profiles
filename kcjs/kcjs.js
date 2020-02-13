@@ -2,6 +2,7 @@
  * @supported 改为你的设备 ID
  * @Author: Jianxun
  * @Blog: https://lijianxun.top
+ * @使用介绍：https://lijianxun.top/61.html
  */
 
 let Cookie = $prefs.valueForKey("kcjsCookie");
