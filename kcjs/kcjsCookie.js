@@ -1,7 +1,8 @@
 /**
- * @supported DF337FE16B54
+ * @supported 设备 ID
  * @Author: Jianxun
  * @Blog: https://lijianxun.top
+ * @使用介绍：https://lijianxun.top/61.html
  */
 
 let headerCookie = $request.headers["Cookie"];
