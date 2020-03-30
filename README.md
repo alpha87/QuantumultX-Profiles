@@ -36,6 +36,18 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 如果你的机场马上就要到期，推荐使用[卡车极速](http://m8.pw/mddv)，墙在高都不怕！**优惠码：kc_forever_5**
 
+## 曲线救国使用远程
+
+详情见[一行代码搞定 Quantumult X 远程脚本](https://lijianxun.top/339.html)。简单来说，使用远程脚本的思路是请求远程代码链接，使用 JavaScript 自带函数 `eval()` 运行远程代码，达到使用远程脚本的功能。目前只测试了京东签到脚本，应该所有脚本都是没问题的。
+
+贴出这一行代码：
+
+```javascript
+$task.fetch({ url: "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js" }).then(response => {eval(response.body);});
+```
+
+有兴趣使用远程脚本的朋友可以试试。
+
 ## 使用远程 JS
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7043c3c1-7ee8-4158-883f-a321ac10f0c7/deploy-status)](https://app.netlify.com/sites/musing-galileo-d17927/deploys)
