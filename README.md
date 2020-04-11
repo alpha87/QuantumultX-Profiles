@@ -67,3 +67,9 @@ $task.fetch({ url: "https://raw.githubusercontent.com/NobyDa/Script/master/JD-Da
 看明白小白配置以后，想进阶可以了解一下这份教程，比较全面。
 
 https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
+
+# 捐助
+
+开发不易，感谢支持！
+
+<div align=center><img width="260" height="260" src="https://i.loli.net/2020/04/11/8SbdAIZ6CYlBqey.jpg"></div>
