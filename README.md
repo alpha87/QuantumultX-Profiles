@@ -18,7 +18,7 @@ QuantumultX **真·小白配置**。
 
 ## 下载导入配置文件
 
-![下载](https://i.loli.net/2019/12/06/3VBawUXLrsMR8d9.jpg)
+<div align=center><img width="50%" height="50%" src="https://i.loli.net/2019/12/06/3VBawUXLrsMR8d9.jpg"></div>
 
 点击下载，将下边的链接拷贝到输入框。
 
