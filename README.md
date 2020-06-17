@@ -1,8 +1,10 @@
 # QuantumultX Profiles
 
-<img src="https://img.shields.io/github/stars/alpha87/QuantumultX-Profiles?label=Stars&style=flat-square">    <img src="https://img.shields.io/github/forks/alpha87/QuantumultX-Profiles?label=Fork">   <img src="https://img.shields.io/github/watchers/alpha87/QuantumultX-Profiles?label=Watchers&style=flat-square">
+------
 
-QuantumultX **真·小白配置**。
+<img src="https://img.shields.io/github/stars/alpha87/QuantumultX-Profiles?label=Stars&style=flat-square">    <img src="https://img.shields.io/github/forks/alpha87/QuantumultX-Profiles?label=Fork&style=flat-square">   <img src="https://img.shields.io/github/watchers/alpha87/QuantumultX-Profiles?label=Watchers&style=flat-square">
+
+一份你值得拥有的 QuantumultX **真·小白配置**。
 
 如果你是从小火箭（Shadowrocket）过来的，这份配置正好适合你，规则简单实用，配合简单好理解的去广告 JavaScript 脚本，达到国内直连，国外扶梯，去 YouTube 5秒广告的使用效果。
 
@@ -14,29 +16,27 @@ QuantumultX **真·小白配置**。
 
 想要了解更多？作者个人博客：[https://lijianxun.top](https://lijianxun.top)
 
-感谢支持🙏
+感谢支持 🙏
 
 # 使用方式
 
 ## 下载导入配置文件
 
-<div align=center><img width="50%" height="50%" src="https://i.loli.net/2019/12/06/3VBawUXLrsMR8d9.jpg"></div>
+<div align=center><img width="50%" height="50%" src="https://i.loli.net/2020/06/17/LC6OTPX1zNKjJQZ.jpg"></div>
 
-点击下载，将下边的链接拷贝到输入框。
+点击**下载**，将下边的链接拷贝到输入框。
 
 https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumultX_profile.conf
 
-保存。
+保存即可。
 
-如果在使用（微信公众号，大姨妈，IT之家）中报错，是因为没有导入对应去广告 JavaScript 脚本。
+~~如果在使用（微信公众号，大姨妈，IT之家）中报错，是因为没有导入对应去广告 JavaScript 脚本。~~
 
-需要把脚本拷贝到本地 QuantumultX 下的 Scripts 路径下。
+~~需要把脚本拷贝到本地 QuantumultX 下的 Scripts 路径下。~~
+
+已经将去广告部分默认添加到远程重写部分，无需手动添加（需要配合新版 `v1.0.10`）。
 
 具体可以看文章介绍 [QuantumultX 配置文件以及常用的脚本推荐](https://lijianxun.top/?p=106)
-
-想使用 QuantumultX 的构造请求来为自己的机场每日签到？可以看这篇文章：[使用 QuantumultX 实现卡车极速自动签到](https://lijianxun.top/61.html)。
-
-如果你的机场马上就要到期，推荐使用[卡车极速](http://m8.pw/mddv)，墙在高都不怕！**优惠码：kc_forever_5**
 
 ## 曲线救国使用远程
 
@@ -70,8 +70,10 @@ $task.fetch({ url: "https://raw.githubusercontent.com/NobyDa/Script/master/JD-Da
 
 https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
 
-# 捐助
+# 开发不易，感谢支持！
 
-开发不易，感谢支持！
+[赞赏名单](https://lijianxun.top/about)
 
 <div align=center><img width="260" height="260" src="https://i.loli.net/2020/04/11/8SbdAIZ6CYlBqey.jpg"></div>
+
+![](https://i.loli.net/2020/06/17/ZpwDfJmCGEoKqnb.png)
