@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/github/stars/alpha87/QuantumultX-Profiles?label=Stars&style=flat-square">    <img src="https://img.shields.io/github/forks/alpha87/QuantumultX-Profiles?label=Fork&style=flat-square">   <img src="https://img.shields.io/github/watchers/alpha87/QuantumultX-Profiles?label=Watchers&style=flat-square">
 
-** 🍒 下载「彩云天气」APP，输入我的邀请码：24066808，领取最高一年 SVIP。**
+**🍒 下载「彩云天气」APP，输入我的邀请码：24066808，领取最高一年 SVIP。**
 
 一份你值得拥有的 QuantumultX **真·小白配置**。
 
