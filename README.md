@@ -4,7 +4,11 @@
 
 <img src="https://img.shields.io/github/stars/alpha87/QuantumultX-Profiles?label=Stars&style=flat-square">    <img src="https://img.shields.io/github/forks/alpha87/QuantumultX-Profiles?label=Fork&style=flat-square">   <img src="https://img.shields.io/github/watchers/alpha87/QuantumultX-Profiles?label=Watchers&style=flat-square">
 
-**🍒 支付宝搜索  720832493  领取大额无门槛红包！**
+## 整点福利！网传的这个红包码扫出来的金额都挺大
+
+<div align=center><img width="300" height="500" src="https://i.loli.net/2021/12/03/bv4HguZoxLR2MJI.jpg"></div>
+
+![](https://i.loli.net/2021/12/03/dYiPvKH5ynuEqk7.jpg)
 
 一份你值得拥有的 QuantumultX **真·小白配置**。
 
