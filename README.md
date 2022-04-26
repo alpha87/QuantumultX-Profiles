@@ -4,12 +4,6 @@
 
 <img src="https://img.shields.io/github/stars/alpha87/QuantumultX-Profiles?label=Stars&style=flat-square">    <img src="https://img.shields.io/github/forks/alpha87/QuantumultX-Profiles?label=Fork&style=flat-square">   <img src="https://img.shields.io/github/watchers/alpha87/QuantumultX-Profiles?label=Watchers&style=flat-square">
 
-## 整点福利！网传的这个红包码扫出来的金额都挺大
-
-<div align=center><img width="300" height="500" src="https://i.loli.net/2021/12/03/bv4HguZoxLR2MJI.jpg"></div>
-
-![](https://i.loli.net/2021/12/03/dYiPvKH5ynuEqk7.jpg)
-
 一份你值得拥有的 QuantumultX **真·小白配置**。
 
 如果你是从小火箭（Shadowrocket）过来的，这份配置正好适合你，规则简单实用，配合简单好理解的去广告 JavaScript 脚本，达到国内直连，国外扶梯，去 YouTube 5 秒广告的使用效果。
