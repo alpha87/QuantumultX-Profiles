@@ -24,7 +24,7 @@
 
 ## 机场推荐
 
-[卡车极速](https://kcjisu.top/auth/register?code=jUqG)
+[卡车极速](https://kcssr.app/auth/register?code=jUqG)
 
 ## 下载导入配置文件
 
