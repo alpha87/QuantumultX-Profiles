@@ -1,3 +1,10 @@
+/**
+ * [rewrite_local]
+ * ^https:\/\/backend\.getdrafts\.com\/api\/v1\/verification\/verify_receipt url script-response-body https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/drafts.js
+ * 
+ * hostname=backend.getdrafts.com
+ */
+
 var obj = JSON.parse($response.body);
 
 obj= {
