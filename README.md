@@ -16,15 +16,13 @@
 
 如果这份配置帮助到你，还请点击上方 **star** 支持作者。
 
-想要了解更多？作者个人博客：[https://lijianxun.top](https://lijianxun.top)
-
 感谢支持 🙏
 
 # 使用方式
 
-## 机场推荐
+## 91折话费充值
 
-[卡车极速](https://kcssr.me/auth/register?code=jUqG)
+![IMG_5519.jpg](https://s2.loli.net/2024/03/01/BPKUR6geJFAD7TC.jpg)
 
 ## 下载导入配置文件
 
