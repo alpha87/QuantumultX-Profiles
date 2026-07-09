@@ -20,9 +20,9 @@
 
 # 使用方式
 
-## 91折话费充值
+## 夸克资源网站推荐
 
-![IMG_5519.jpg](https://s2.loli.net/2024/03/01/BPKUR6geJFAD7TC.jpg)
+[https://knxhub.top/](https://knxhub.top/)
 
 ## 下载导入配置文件
 
